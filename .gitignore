@@ -1,0 +1,21 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local working material and private captures
+.capture-quarantine/
+tmp/
+*.log
+
+# Never add application or device data to this documentation repository
+*.apk
+*.aab
+*.db
+*.sqlite*
+*.keystore
+*.jks
+local.properties
+
