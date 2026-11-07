@@ -16,7 +16,10 @@ an iOS application and a planned Android application.
 
 ## Demo
 
-[Watch the 1 minute 50 second BookOrbit Android demo](demo/bookorbit-demo.mp4)
+![Demo: browsing BookOrbit, reading an EPUB, using the audiobook player, opening requests and changing appearance settings](demo/bookorbit-demo.gif)
+
+1 minute 50 second walkthrough recorded on a physical Android phone
+([higher-quality MP4](demo/bookorbit-demo.mp4)).
 
 The recording was made from the app running on my phone on 6 November 2026. It shows:
 
@@ -164,7 +167,8 @@ client. See the full [verification record](docs/verification.md).
 
 ## Repository contents
 
-- [`demo/bookorbit-demo.mp4`](demo/bookorbit-demo.mp4) — phone-recorded walkthrough
+- [`demo/bookorbit-demo.gif`](demo/bookorbit-demo.gif) — inline GitHub-compatible preview
+- [`demo/bookorbit-demo.mp4`](demo/bookorbit-demo.mp4) — higher-quality phone-recorded walkthrough
 - [`screenshots/`](screenshots/) — still frames extracted from the same recording
 - [`case-studies/`](case-studies/) — three focused technical stories
 - [`docs/ai-workflow.md`](docs/ai-workflow.md) — how decisions, AI generation and verification were divided
